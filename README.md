@@ -1,4 +1,4 @@
-# Demonstration of using Camel
+# Demonstration of using Camel by Spring Boot
 
 Spring Boot - Using annotations with Apache Camel
 
